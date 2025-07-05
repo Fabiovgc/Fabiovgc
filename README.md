@@ -2,12 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCC900&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fabio+Colonese;I'm+27+years+old;I+am+from+Rio+de+Janeiro,+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabiovgc&show_icons=true&count_private=true&hide_border=true&title_color=FCC900&icon_color=FCC900&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Colonese github stats" /> 
-</div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabiovgc&bg_color=000000&color=FCC900&line=FCC900&point=FCC900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/f%C3%A1bio-colonese-31008425b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
