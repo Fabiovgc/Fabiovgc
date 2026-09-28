@@ -10,7 +10,11 @@
 
 ## 🚀 Projeto Principal (Organizações)
 
-<img width="354" height="91" alt="2026-09-27 214637" src="https://github.com/user-attachments/assets/a7dd5662-06dd-4187-ab50-5c111c1b91e8" />
+<img width="354" height="91" alt="2026-09-27 214637" src="https://github.com/user-attachments/assets/a7dd5662-06dd-4187-ab50-5c111c1b91e8" /> <br/>
+
+
+<img width="314" height="307" alt="Captura de tela 2026-09-27 221711" src="https://github.com/user-attachments/assets/19b23cd7-2f21-4b3e-8c2f-7f24cdf4ae88" />
+
 
 
 
@@ -27,7 +31,7 @@ A proposta é servir de base para aplicações que exigem separação clara entr
 
 👉 [Acesse o repositório completo aqui](https://github.com/Codee-Sharp/AgendaPro)
 
-
+<hr/>
  
 ### Main stack⭐
 
