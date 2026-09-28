@@ -1,18 +1,31 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCC900&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCC900&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fabio+Colonese;I'm+28+years+old;I+am+from+Rio+de+Janeiro,+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+#   Backend Software Engineer | .NET Developer
 
 
-
-
-
-
-<div align="center">  
+<div>  
 <a href="https://www.linkedin.com/in/f%C3%A1bio-colonese-31008425b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.fabiovgc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  
 </div> 
 
+## 🚀 Projeto Principal (Organizações)
+
+<img width="354" height="91" alt="2026-09-27 214637" src="https://github.com/user-attachments/assets/a7dd5662-06dd-4187-ab50-5c111c1b91e8" />
+
+
+
+Desenvolvedor back-end no projeto **[AgendaPro](https://github.com/Codee-Sharp/AgendaPro)**, uma solução voltada para agendamento de serviços.
+
+Projeto estruturado sob os princípios de Clean Architecture, aplicando CQRS e DDD Light para alcançar uma arquitetura modular, testável e escalável.
+A proposta é servir de base para aplicações que exigem separação clara entre camadas, regras de domínio puras e independência de infraestrutura.
+
+- **Minhas Contribuições Principais:**
+  - Arquitetura da API utilizando **ASP.NET Core** e **Clean Architecture**.
+  - Integração com **Entity Framework Core** e **SQL Server**.
+  - Implementação de autenticação segura via **JWT** e testes de integração com **xUnit**.
+- **Stack utilizada pelo time:** C#, .NET 10, SQL Server e Angular.
+
+👉 [Acesse o repositório completo aqui](https://github.com/Codee-Sharp/AgendaPro)
 
 
  
