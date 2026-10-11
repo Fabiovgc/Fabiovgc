@@ -25,7 +25,7 @@ A proposta é servir de base para aplicações que exigem separação clara entr
 
 - **Minhas Contribuições Principais:**
   - Arquitetura da API utilizando **ASP.NET Core** e **Clean Architecture**.
-  - Integração com **Entity Framework Core** e **SQL Server**.
+  - Integração com **Entity Framework Core** e **PostgreSQL**.
   - Implementação de autenticação segura via **JWT** e testes de integração com **xUnit**.
 - **Stack utilizada pelo time:** C#, .NET 10, PostgreSQL.
 
