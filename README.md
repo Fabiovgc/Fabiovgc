@@ -27,7 +27,7 @@ A proposta é servir de base para aplicações que exigem separação clara entr
   - Arquitetura da API utilizando **ASP.NET Core** e **Clean Architecture**.
   - Integração com **Entity Framework Core** e **SQL Server**.
   - Implementação de autenticação segura via **JWT** e testes de integração com **xUnit**.
-- **Stack utilizada pelo time:** C#, .NET 10, SQL Server e Angular.
+- **Stack utilizada pelo time:** C#, .NET 10, PostgreSQL.
 
 👉 [Acesse o repositório completo aqui](https://github.com/Codee-Sharp/AgendaPro)
 
